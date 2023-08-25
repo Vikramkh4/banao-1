@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">BANAO TASK 1</h3>
+  
   ![ATGWebCloneLogo](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/bcbb2bd0-6e72-46f6-83a7-5ac98425f447)
 
   <p align="center">
@@ -15,10 +16,15 @@
   </p>
 </p>
 <h2>Homepage</h2>
+
 ![BT1_Home](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/67f364c3-536d-4e8f-9ba5-5e6507d9ee0b)
+
 <h2>Join Us</h2>
+
 ![BT1_Join_group](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/ed727913-cb78-4b2b-a31d-2f673862877e)
+
 <h2>Logged In</h2>
+
 ![BT1_Logged_in](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/e09d30bd-3e82-42b8-ad97-ee42a89c2489)
 
 

@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">BANAO TASK 1</h3>
-  
-  ![ATGWebCloneLogo](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/bcbb2bd0-6e72-46f6-83a7-5ac98425f447)
+  ![ATGWebCloneLogo](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/7999e45f-6e35-490e-b4c4-f860620f2393)
 
   <p align="center">
     <a href="https://reactjs.org/"><strong>A React.js Webapp</strong></a>
@@ -16,16 +15,15 @@
   </p>
 </p>
 <h2>Homepage</h2>
+![BT1_Home](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/9c0cd56e-0ce7-4b07-9d15-1419081c20d9)
 
-![BT1_Home](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/67f364c3-536d-4e8f-9ba5-5e6507d9ee0b)
 
 <h2>Join Us</h2>
+![BT1_Join_group](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/0ceeb0b6-6d34-4dd9-9cba-3573420175f3)
 
-![BT1_Join_group](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/ed727913-cb78-4b2b-a31d-2f673862877e)
 
 <h2>Logged In</h2>
-
-![BT1_Logged_in](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/e09d30bd-3e82-42b8-ad97-ee42a89c2489)
+![BT1_Logged_in](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/aa3bb97b-4856-4521-8e8d-bc2c9a855f06)
 
 
 <!-- TABLE OF CONTENTS -->

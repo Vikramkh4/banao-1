@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  ![ATGWebCloneLogo](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/a7bdd121-5ca7-4d37-9661-a2588ffef465)
-
+![ATGWebCloneLogo](https://github.com/Ashwani2529/React.js-Clone/assets/91582711/2e695bf2-1e03-455b-8371-395164bf3982)
+  
   <h3 align="center">BANAO TASK 1</h3>
   <p align="center">
     <a href="https://reactjs.org/"><strong>A React.js Webapp</strong></a>

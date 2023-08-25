@@ -7,7 +7,7 @@
     <a href="https://reactjs.org/"><strong>A React.js Webapp</strong></a>
     <br />
     <br />
-    <a href="https://atg-react.js-clone.netlify.app">View Webapp</a>
+    <a href="https://atg-reactjs-clone.netlify.app">View Webapp</a>
     ·
     <a href="https://github.com/Ashwani2529/React.js-Clone/issues">Report Bug</a>
     ·

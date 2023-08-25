@@ -14,6 +14,10 @@
     <a href="https://github.com/Ashwani2529/React.js-Clone/issues">Request Feature</a>
   </p>
 </p>
+<h2>Walkthrough Video</h2>
+
+https://github.com/Ashwani2529/React.js-Clone/assets/91582711/745df98a-4933-418b-b227-6292b6510e40
+
 <h2>Homepage</h2>
 
 

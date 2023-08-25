@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Banao task 1 is the shortlisting task for internship hiring given by [Banao Technologies](https://www.banao.tech/). I decided to present this task as a [Reactjs](https://reactjs.org/) application and hosted in [Vercel](https://vercel.com/). 
+Banao task 1 is the shortlisting task for internship hiring given by [Banao Technologies](https://www.banao.tech/). I decided to present this task as a [Reactjs](https://reactjs.org/) application and hosted in [Netlify](https://app.netlify.com/). 
 
 ## Built With
 

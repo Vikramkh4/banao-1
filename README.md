@@ -69,6 +69,6 @@ Banao task 1 is the shortlisting task for internship hiring given by [Banao Tech
 
 Ashwani Kumar Singh,\
 Computer Science Student,\
-ashwanix2749@gmail.com,\
+ashwanix2749@gmail.com,
 
 
